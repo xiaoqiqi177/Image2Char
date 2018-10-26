@@ -17,4 +17,4 @@ Output image:
 
 # Acknowledge
 
-Thanks for @mike199515 for contributing to the input images.
+Thank @mike199515 for contributing to the input images.
